@@ -1,0 +1,4 @@
+- add script to create new post
+- add script for live preview server
+- style local and external links differently
+- make a discovery feed app that people can opt into
